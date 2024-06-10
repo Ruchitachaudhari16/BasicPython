@@ -1,0 +1,10 @@
+name = "A"  
+Name = "B"  
+naMe = "C"  
+NAME = "D"  
+n_a_m_e = "E"  
+_name = "F"  
+name_ = "G"  
+_name_ = "H"  
+na56me = "I" 
+print(naMe)
